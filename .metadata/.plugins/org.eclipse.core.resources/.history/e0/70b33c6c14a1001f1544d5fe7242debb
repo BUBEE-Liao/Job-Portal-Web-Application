@@ -1,0 +1,21 @@
+package com.bubee.jobportal.entity;
+
+import jakarta.persistence.Entity;
+import jakarta.persistence.Id;
+import jakarta.persistence.JoinColumn;
+import jakarta.persistence.MapsId;
+import jakarta.persistence.OneToOne;
+import jakarta.persistence.Table;
+
+@Entity
+@Table(name = "job_seeker_profile")
+public class JobSeekerProfile {
+
+	@Id
+	private int userAccountId;
+	
+	@OneToOne
+	@JoinColumn(name = "user_account_id")
+	@MapsId
+	private Users userId;
+}

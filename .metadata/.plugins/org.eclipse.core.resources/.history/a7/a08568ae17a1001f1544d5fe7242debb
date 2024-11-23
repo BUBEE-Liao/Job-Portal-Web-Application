@@ -1,0 +1,8 @@
+package com.bubee.jobportal.repository;
+
+import org.springframework.boot.autoconfigure.batch.BatchProperties.Job;
+import org.springframework.data.jpa.repository.JpaRepository;
+
+public interface JobSeekerRepository extends JpaRepository<Job, Integer>{
+
+}

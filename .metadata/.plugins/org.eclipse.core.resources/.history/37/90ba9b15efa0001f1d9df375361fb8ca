@@ -1,0 +1,19 @@
+package com.bubee.jobportal.controller;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Controller;
+
+import com.bubee.jobportal.services.UsersTypeService;
+
+@Controller
+public class UsersController {
+	
+	private final UsersTypeService usersTypeService;
+	
+	@Autowired
+	public UsersController(UsersTypeService usersTypeService) {
+		this.usersTypeService = usersTypeService;
+	}
+	
+	
+}
