@@ -49,7 +49,6 @@ A modern web application for job seekers and recruiters, built using the **Sprin
 
 ### Prerequisites
 - JDK 17+
-- Maven
 - MySQL database
 - An IDE (e.g., IntelliJ IDEA, Eclipse)
 
