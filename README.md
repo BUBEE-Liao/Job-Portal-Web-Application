@@ -64,3 +64,7 @@ A modern web application for job seekers and recruiters, built using the **Sprin
    ```bash
    git clone https://github.com/your-username/job-portal-web-application.git
    cd job-portal-web-application
+   
+2. setup database schema by runing the sql script in MySQL workbench
+
+3. run `JobportalApplication.java`
