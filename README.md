@@ -1,6 +1,11 @@
 # Job-Portal-Web-Application using Spring
 
 A modern web application for job seekers and recruiters, built using the **Spring Framework**. This project allows users to post and search for job opportunities, manage applications, and connect job seekers with employers efficiently.
+---
+
+![image](https://github.com/BUBEE-Liao/Job-Portal-Web-Application/blob/b1/table_schema.png)
+
+---
 
 ![image](https://github.com/BUBEE-Liao/Job-Portal-Web-Application/blob/b1/home.jpg)
 
