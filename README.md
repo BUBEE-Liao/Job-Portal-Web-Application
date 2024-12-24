@@ -20,7 +20,6 @@ A modern web application for job seekers and recruiters, built using the **Sprin
 - **Recruiter Module**:
   - Post and manage job listings.
   - View applications received for job postings.
-  - Communicate with job seekers.
 
 - **Authentication & Authorization**:
   - Role-based access control (Job Seeker, Recruiter).
