@@ -44,7 +44,7 @@ A modern web application for job seekers and recruiters, built using the **Sprin
   - Thymeleaf (for server-side rendering)
 
 - **Database**:
-  - MySQL (or PostgreSQL)
+  - MySQL
 
 - **Others**:
   - Maven (build tool)
