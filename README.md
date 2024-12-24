@@ -3,7 +3,7 @@
 A modern web application for job seekers and recruiters, built using the **Spring Framework**. This project allows users to post and search for job opportunities, manage applications, and connect job seekers with employers efficiently.
 ---
 
-![image](https://github.com/BUBEE-Liao/Job-Portal-Web-Application/blob/b1/table_schema.png)
+![image](https://github.com/BUBEE-Liao/Job-Portal-Web-Application/blob/b1/jobportal-database.png)
 
 ---
 
@@ -22,13 +22,8 @@ A modern web application for job seekers and recruiters, built using the **Sprin
   - View applications received for job postings.
   - Communicate with job seekers.
 
-- **Admin Module**:
-  - Manage users (job seekers and recruiters).
-  - Moderate job postings and applications.
-  - Generate reports and analytics.
-
 - **Authentication & Authorization**:
-  - Role-based access control (Job Seeker, Recruiter, Admin).
+  - Role-based access control (Job Seeker, Recruiter).
   - Secure login and registration with encrypted passwords.
 
 ---
